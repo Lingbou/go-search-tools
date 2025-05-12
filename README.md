@@ -79,7 +79,7 @@ git checkout -b [分支名称]
 5.  完成修改后，提交你的代码并推送到远程仓库：
 ```bash
 git add .
-git commit -m "阿巴阿巴"
+git commit -m "message"
 git push origin [分支名称]
 ```
 6.  回到GitHub，在你的仓库页面发起Pull Request，详细描述你的改动内容和目的。我们会尽快对你的PR进行审核和反馈。
