@@ -131,3 +131,8 @@
 ```bash
 gost regex [flags] <pattern>
 ```
+
+### 例如
+```bash
+gost regex "\d{3}-\d{2}-\d{4}"
+```
